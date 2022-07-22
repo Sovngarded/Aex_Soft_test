@@ -19,7 +19,7 @@ _Overall structure_:
 ### Built With
 | Server | Front-end | Database | Tooling |
 | ---  | --- | --- | --- |
-[ASP.NET Core MVC][ASP.NET Core MVC URL]|[React][React URL]|[MS SQL Server][SQL Server URL]|[VS Code][VS Code URL]
-[MS EF Core][EF Core URL]|[Azure Data Studio][Data Studio URL]
-|  |[Swagger][Swagger URL]|
-| | [Bootstrap][Bootstrap URL] | | |
+[ASP.NET Core MVC]|[React][React URL]|[MS SQL Server]|[VS Code]
+[MS EF Core]|[Azure Data Studio]
+|  |[Swagger]|
+| | [Bootstrap] | | |

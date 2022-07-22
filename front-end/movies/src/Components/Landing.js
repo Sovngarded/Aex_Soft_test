@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import DetailMovie from "./Movie";
 
-const baseURL = "https://localhost:5001/api";
+const baseURL = "https://localhost:44350/api";
 
 export default function Landing() {
   const [movies, setMovies] = useState("");

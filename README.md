@@ -21,5 +21,5 @@ _Overall structure_:
 | ---  | --- | --- | --- |
 [ASP.NET Core MVC]|[React]|[MS SQL Server]|[VS Code]
 [MS EF Core]|||[Azure Data Studio]
-|  |[Swagger]|
-| | [Bootstrap] | | |
+|||[Swagger]|
+| | [Bootstrap] 

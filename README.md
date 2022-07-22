@@ -27,7 +27,7 @@ _Overall structure_:
 ### Installation
 1. Clone the repo
 
-https://github.com/Sovngarded/Aex_Soft_test
+git clone https://github.com/Sovngarded/Aex_Soft_test
 
 
 2. Install NPM packages.

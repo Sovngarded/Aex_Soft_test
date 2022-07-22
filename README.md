@@ -20,6 +20,6 @@ _Overall structure_:
 | Server | Front-end | Database | Tooling |
 | ---  | --- | --- | --- |
 [ASP.NET Core MVC]|[React]|[MS SQL Server]|[VS Code]
-[MS EF Core]|[Azure Data Studio]
+[MS EF Core]|||[Azure Data Studio]
 |  |[Swagger]|
 | | [Bootstrap] | | |

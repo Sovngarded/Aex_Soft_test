@@ -24,3 +24,19 @@ _Overall structure_:
 ||||[Swagger]
 
 
+### Installation
+1. Clone the repo
+```bash
+[https://github.com/chaua0927/movie-posters.git](https://github.com/Sovngarded/Aex_Soft_test)
+```
+
+```
+2. Install NPM packages.
+```bash
+npm install
+```
+
+### User Features
+
+- [x] View List of Movie Posters
+- [x] Find certain movies by filter
